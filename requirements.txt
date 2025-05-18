@@ -1,0 +1,8 @@
+streamlit
+streamlit-drawable-canvas
+opencv-python
+numpy
+keras
+sympy
+google-generativeai
+streamlit-lottie
